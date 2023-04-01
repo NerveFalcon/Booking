@@ -1,0 +1,37 @@
+﻿@page "/"
+@using Parties.Data
+
+<PageTitle>Index</PageTitle>
+
+<ul>
+	@foreach (var room in Rooms)
+	{
+		<li>
+			<h2>@room.Title</h2>
+			<div class="day">
+			</div>
+		</li>
+	}
+</ul>
+
+@code{
+
+	private List<Room> Rooms { get; set; }
+
+	protected override void OnInitialized()
+	{
+		base.OnInitialized();
+		Rooms = new List<Room>()
+		{
+			new Room()
+			{
+				Title = "Room 1"
+			},
+			new Room()
+			{
+				Title = "Room 2"
+			},
+		};
+	}
+
+}

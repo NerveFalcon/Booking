@@ -1,0 +1,11 @@
+.content {
+    max-width: 1000px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+::deep .mud-main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
