@@ -9,7 +9,7 @@
 4. Одобрение заявок + чат в заявке
 ## Страницы
 ### Общее
-1. ![Список комнат](/.eraser/QUrm9V2CBwaoCxFzRGGi___4v4qJTsfMzWbzPvSJYogNWF9IYd2___---figure---GZ8Fys1djgULNdhRfCNqz---figure---YPR7gHz4iiYzqlmp61-PSA.svg "Список комнат")
+1. Список комнат![List of rooms](/.eraser/QUrm9V2CBwaoCxFzRGGi___4v4qJTsfMzWbzPvSJYogNWF9IYd2___---figure---Z2MusVCzmeL7zhT9B41kp---figure---YPR7gHz4iiYzqlmp61-PSA.svg "List of rooms")
 
 
 2. Страница комнаты с её описанием и, возможно, фотографиями. 
